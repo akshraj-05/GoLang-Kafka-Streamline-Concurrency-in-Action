@@ -1,0 +1,3 @@
+broker : localhost:9092
+topic : userKafka
+groupID : group1

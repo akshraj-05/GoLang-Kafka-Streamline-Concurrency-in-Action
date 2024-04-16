@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 32,
+    "email": "johndoe@example.com",
+    "city": "New York",
+    "mobile": "+1 (212) 123-4567"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "age": 27,
+    "email": "janedoe@example.com",
+    "city": "Los Angeles",
+    "mobile": "+1 (310) 555-1234"
+  },
+  {
+    "id": 3,
+    "name": "Bob Smith",
+    "age": 45,
+    "email": "bobsmith@example.com",
+    "city": "Chicago",
+    "mobile": "+1 (312) 555-5678"
+  },
+  {
+    "id": 4,
+    "name": "Alice Johnson",
+    "age": 30,
+    "email": "alicejohnson@example.com",
+    "city": "Houston",
+    "mobile": "+1 (713) 555-1234"
+  },
+  {
+    "id": 5,
+    "name": "Mike Brown",
+    "age": 35,
+    "email": "mikebrown@example.com",
+    "city": "Phoenix",
+    "mobile": "+1 (602) 555-5678"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Lee",
+    "age": 29,
+    "email": "sarahlee@example.com",
+    "city": "San Francisco",
+    "mobile": "+1 (415) 555-1234"
+  },
+  {
+    "id": 7,
+    "name": "David Kim",
+    "age": 42,
+    "email": "davidkim@example.com",
+    "city": "Seattle",
+    "mobile": "+1 (206) 555-5678"
+  },
+  {
+    "id": 8,
+    "name": "Emily Chen",
+    "age": 31,
+    "email": "emilychen@example.com",
+    "city": "Boston",
+    "mobile": "+1 (617) 555-1234"
+  },
+  {
+    "id": 9,
+    "name": "Frank Davis",
+    "age": 50,
+    "email": "frankdavis@example.com",
+    "city": "Dallas",
+    "mobile": "+1 (214) 555-5678"
+  },
+  {
+    "id": 10,
+    "name": "Lily Taylor",
+    "age": 25,
+    "email": "lilytaylor@example.com",
+    "city": "Atlanta",
+    "mobile": "+1 (404) 555-1234"
+  }
+]
